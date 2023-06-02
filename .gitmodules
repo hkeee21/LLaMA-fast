@@ -1,0 +1,3 @@
+[submodule "3rdparty/xformers"]
+	path = 3rdparty/xformers
+	url = git@github.com:hkeee21/xformers-hacked.git
